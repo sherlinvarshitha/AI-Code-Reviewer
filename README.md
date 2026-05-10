@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔍 CodeScan AI — Intelligent Code Reviewer
 
 An AI-powered code review web application that detects bugs, security vulnerabilities, code quality issues, and estimates time complexity. Built with **React + Tailwind CSS** (frontend) and **Python Flask** (backend), powered by the **Claude API**.
@@ -209,6 +208,4 @@ Set environment variable in Vercel dashboard:
 ## 📝 License
 
 MIT
-=======
-# AI-Code-Reviewer
->>>>>>> 38c495ee8ca5343e2789ac5880d4ad130189c5e7
+
