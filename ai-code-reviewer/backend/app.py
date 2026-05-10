@@ -501,6 +501,7 @@ def analyze_github():
         return jsonify({"error": "Failed to fetch or analyze repository"}), 500
 
 
-if __name__ == "__main__":
+name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
-    app.run(debug=True, port=port)
+    #app.run(debug=True, port=port)
+    app.run(host="0.0.0.0", port=port)
